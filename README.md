@@ -39,6 +39,7 @@ I like turning real-world problems into reliable software — and reading code w
 
 | Project | Description | Stack |
 |---|---|---|
+| [**claude-delegar**](https://github.com/cuajada69/claude-delegar) | Makes Claude Code hand off searches, bulk reading and well-specified coding to cheaper Haiku and Sonnet subagents automatically, while Opus keeps design and review. Reading with Haiku is 40× cheaper than with Opus. One-command install for Windows, Mac and Linux. | Claude Code · Bash · PowerShell |
 | [**WhatsApp Catalog Generator**](https://github.com/cuajada69/whatsapp-catalog-generator) | Config-driven generator of print-ready PDF catalogs where every product photo opens a pre-filled WhatsApp chat. Renders with Puppeteer and verifies the final PDF (every link, image and page). Used to deliver catalogs to real furniture stores. | Node.js · Puppeteer · sharp |
 | [**Furniture Shop Demo**](https://github.com/cuajada69/furniture-shop-demo) · [live](https://cuajada69.github.io/furniture-shop-demo/) | Mobile-first static storefront: collections, filters, search and a quote list sent as one WhatsApp message. No backend, hosted on GitHub Pages. | JavaScript · HTML · CSS |
 | [**Plinko Binary Tree**](https://github.com/cuajada69/plinko-binary-tree) | Desktop Plinko game built on a complete binary tree: animated ball drops, 50/50 probability engine, pre/in/post/level-order traversals, sound and player balance. Clean MVC architecture with polymorphic nodes. | C++17 · Qt 6 · OOP |
