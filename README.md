@@ -9,9 +9,6 @@ I write mostly JavaScript and Node.js, Python when a script will do, and C++ for
 **[whatsapp-catalog-generator](https://github.com/kilianvega-dev/whatsapp-catalog-generator)**<br>
 Turns a config file into a print-ready PDF catalog where each product photo opens a WhatsApp chat with the product already in the message. I've delivered catalogs made with it to real furniture stores. Puppeteer renders the PDF, then a check goes through every link, image and page of the final file. Node.js, Puppeteer, sharp.
 
-**[furniture-shop-demo](https://github.com/kilianvega-dev/furniture-shop-demo)** ([live](https://kilianvega-dev.github.io/furniture-shop-demo/))<br>
-A phone-first storefront with collections, filters, search and a quote list that goes out as one WhatsApp message. No backend; it runs on GitHub Pages.
-
 **[voltio-demo](https://github.com/kilianvega-dev/voltio-demo)** ([live](https://kilianvega-dev.github.io/voltio-demo/))<br>
 Landing page and store for a made-up tech shop. The cart shows how far you are from free shipping, and checkout covers Nequi, PSE, card, cash on delivery and ordering by WhatsApp.
 
